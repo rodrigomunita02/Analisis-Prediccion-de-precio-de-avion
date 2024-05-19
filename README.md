@@ -29,3 +29,9 @@ El objetivo principal de este proyecto es proporcionar una comprensión profunda
 - **Python**: Se utilizó Python como lenguaje principal de programación.
 - **Librerías**: Se utilizaron Pandas para el manejo de datos, Matplotlib y Seaborn para la visualización, y Scikit-learn para el modelado predictivo.
 - **Jupyter Notebook**: Se utilizó Jupyter Notebook como entorno de desarrollo interactivo para el análisis de datos y la experimentación con modelos de machine learning.
+
+### Conclusión
+Después de realizar un análisis exhaustivo de los datos de reservas de vuelo y experimentar con varios modelos de machine learning, se ha determinado que el modelo más efectivo para predecir los precios de los boletos es el XGBRegressor. Este modelo mostró un rendimiento superior en términos de precisión y capacidad para capturar las complejas relaciones entre las características de reserva y los precios de los vuelos. 
+
+Este análisis proporciona una valiosa comprensión de las tendencias del mercado y puede ser una herramienta útil para las aerolíneas, agencias de viajes y pasajeros en la toma de decisiones informadas sobre precios y disponibilidad de vuelos.
+
